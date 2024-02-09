@@ -1,6 +1,6 @@
-## Welcome to the profile of Lu1z1nn 😁
+## Bem vindo ao perfil de Lu1z1nn 😁
 
-Nice to meet you, I'm Luiz Fellipe, front-end developer, I'm currently working with the following technologies:
+Muito prazer, sou o Luiz Fellipe, desenvolvedor Front-End, estou trabalhando com as seguintes tecnologias:
 
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
@@ -19,7 +19,7 @@ Nice to meet you, I'm Luiz Fellipe, front-end developer, I'm currently working w
  
 <br>
  
-### For more information, below are some social networks:
+### Para mais informações, aqui estão algumas redes sociais:
  
 <div>
   <a href="https://www.instagram.com/lu1z1n/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
