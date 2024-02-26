@@ -1,6 +1,6 @@
 ## Bem vindo ao perfil de Lu1z1nn 😁
 
-Muito prazer, sou o Luiz Fellipe, desenvolvedor Front-End, estou trabalhando com as seguintes tecnologias:
+Muito prazer, sou o Luiz Fellipe, desenvolvedor Front-End utilizando as seguintes tecnologias:
 
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
@@ -22,11 +22,9 @@ Muito prazer, sou o Luiz Fellipe, desenvolvedor Front-End, estou trabalhando com
 ### Para mais informações, aqui estão algumas redes sociais:
  
 <div>
-  <a href="https://www.instagram.com/lu1z1n/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <br>
-  <a href="" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <br>
-  <a href="https://www.linkedin.com/in/luiz-fellipe-a6a4b218b/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-  
+  <a href="https://www.instagram.com/lu1z1n/" target="_blank"> <img width="100px" height="25px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="" > <img width="100px" height="25px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/luiz-fellipe-a6a4b218b/" target="_blank"> <img width="100px" height="25px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+
